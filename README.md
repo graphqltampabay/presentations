@@ -19,10 +19,10 @@ presenters.
 
 ## Directory
 
-1. Intro to GraphQL
-2. React and GraphQL
-3. The GraphQL Ecosystem
-4. Schema Design
+1. [Intro to GraphQL]
+2. [React and GraphQL]
+3. [The GraphQL Ecosystem]
+4. [Schema Design]
 5. Scaling the Schema
 6. Fetching Data
 7. Creating Great Docs
@@ -44,3 +44,7 @@ Want to become a contributor? Open an issue or catch us at the next meetup!
 
 [meetup]: https://www.meetup.com/GraphQL-Tampa-Bay
 [twitch]: https://www.twitch.tv/graphql_tampa_bay
+[intro to graphql]: 1-intro-to-graphql.md
+[react and graphql]: 2-react-and-graphql.md
+[the graphql ecosystem]: 3-graphql-ecosystem.md
+[schema design]: 4-schema-design.md
